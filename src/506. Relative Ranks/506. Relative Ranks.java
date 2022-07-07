@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public String[] findRelativeRanks(int[] score) {
         Integer[] index = new Integer[score.length];
         for (int i = 0; i < index.length; ++i) {
