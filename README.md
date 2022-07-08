@@ -12,3 +12,4 @@ It's 2022-23 hiring season. Leetcode time.
 | 1180   | Count Substrings with Only One Distinct Letter | Easy       |
 | 1119   | Remove Vowels from a String                    | Easy       |
 | 1408   | String Matching in an Array                    | Easy       |
+| 1496   | Path Crossing                                  | Easy       |
