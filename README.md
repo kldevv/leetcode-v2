@@ -13,3 +13,4 @@ It's 2022-23 hiring season. Leetcode time.
 | 1119   | Remove Vowels from a String                    | Easy       |
 | 1408   | String Matching in an Array                    | Easy       |
 | 1496   | Path Crossing                                  | Easy       |
+| 438    | Find All Anagrams in a String                  | Easy       |
