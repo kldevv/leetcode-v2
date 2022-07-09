@@ -15,3 +15,4 @@ It's 2022-23 hiring season. Leetcode time.
 | 1496   | Path Crossing                                  | Easy       |                |
 | 438    | Find All Anagrams in a String                  | Medium     |                |
 | 907    | Sum of Subarray Minimums                       | Medium     | Monotone stack |
+| 1429   | First Unique Number                            | Medium     |                |
