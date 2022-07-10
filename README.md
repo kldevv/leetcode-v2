@@ -1,6 +1,6 @@
 # leetcode-v2
 
-It's 2022-23 hiring season. Leetcode time.
+It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 
 | Number | Name                                           | Difficulty | Note           |
 | ------ | ---------------------------------------------- | ---------- | -------------- |
@@ -16,3 +16,4 @@ It's 2022-23 hiring season. Leetcode time.
 | 438    | Find All Anagrams in a String                  | Medium     |                |
 | 907    | Sum of Subarray Minimums                       | Medium     | Monotone stack |
 | 1429   | First Unique Number                            | Medium     |                |
+| 811    | Subdomain Visit Count                          | Medium     |                |
