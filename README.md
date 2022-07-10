@@ -18,3 +18,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1429   | First Unique Number                            | Medium     |                |
 | 811    | Subdomain Visit Count                          | Medium     |                |
 | 1396   | Design Underground System                      | Medium     |                |
+| 923    | 3Sum With Multiplicity                         | Medium     |                |
