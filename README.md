@@ -2,6 +2,8 @@
 
 It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 
+-   :telescope: : Math Problem
+
 | Number | Name                                           | Difficulty | Note                                       |
 | ------ | ---------------------------------------------- | ---------- | ------------------------------------------ |
 | 463    | Island Perimeter                               | Easy       |                                            |
