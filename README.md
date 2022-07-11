@@ -22,3 +22,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 815    | Bus Routes                                     | Hard       |                                            |
 | 716    | Max Stack                                      | Hard       | 1. Double Linked List <br /> 2. Two Stacks |
 | 881    | Boats to Save People                           | Medium     |                                            |
+| 991    | Broken Calculator                              | Medium     | :telescope:                                |
