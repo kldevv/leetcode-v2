@@ -2,7 +2,8 @@
 
 It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 
--   :telescope: : Math Problem
+-   :telescope:: Math problem
+-   :sparkles:: Brain teaser
 
 | Number | Name                                           | Difficulty | Note                                       |
 | ------ | ---------------------------------------------- | ---------- | ------------------------------------------ |
@@ -25,3 +26,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 716    | Max Stack                                      | Hard       | 1. Double Linked List <br /> 2. Two Stacks |
 | 881    | Boats to Save People                           | Medium     |                                            |
 | 991    | Broken Calculator                              | Medium     | :telescope:                                |
+| 1405   | Longest Happy String                           | :sparkles: |
