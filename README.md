@@ -27,3 +27,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 881    | Boats to Save People                           | Medium     |                                            |
 | 991    | Broken Calculator                              | Medium     | :telescope:                                |
 | 1405   | Longest Happy String                           | Medium     | :sparkles:                                 |
+| 1523   | Count Odd Numbers in an Interval Range         | Easy       | :telescope:                                |
