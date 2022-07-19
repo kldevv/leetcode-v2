@@ -30,3 +30,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1405   | Longest Happy String                           | Medium     | :sparkles:                                 |
 | 1523   | Count Odd Numbers in an Interval Range         | Easy       | :telescope:                                |
 | 13     | Roman to Integer                               | Easy       | :eye_speech_bubble:                        |
+| 12     | Integer to Roman                               | Medium     | :eye_speech_bubble:                        |
