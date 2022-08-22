@@ -32,3 +32,5 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 13     | Roman to Integer                               | Easy       | :eye_speech_bubble:                        |
 | 12     | Integer to Roman                               | Medium     | :eye_speech_bubble:                        |
 | 423    | Reconstruct Original Digits from English       | Medium     | :sparkles:                                 |
+| 235    | Lowest Common Ancestor of a Binary Search Tree | Easy       |                                            |
+| 236    | Lowest Common Ancestor of a Binary Tree        | Medium     |                                            |
