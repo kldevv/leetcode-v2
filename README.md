@@ -34,3 +34,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 423    | Reconstruct Original Digits from English       | Medium     | :sparkles:                                 |
 | 235    | Lowest Common Ancestor of a Binary Search Tree | Easy       |                                            |
 | 236    | Lowest Common Ancestor of a Binary Tree        | Medium     |                                            |
+| 684    | Redundant Connection                           | Medium     | Disjoint set                               |
