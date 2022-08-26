@@ -38,3 +38,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 685    | Redundant Connection II                        | Hard       | Disjoint set                               |
 | 743    | Network Delay Time                             | Medium     | Dijkstra's                                 |
 | 997    | Find the Town Judge                            | Easy       |
+| 841    | Keys and Rooms                                 | Medium     |                                            |
