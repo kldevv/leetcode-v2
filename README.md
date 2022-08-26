@@ -36,3 +36,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 236    | Lowest Common Ancestor of a Binary Tree        | Medium     |                                            |
 | 684    | Redundant Connection                           | Medium     | Disjoint set                               |
 | 685    | Redundant Connection II                        | Hard       | Disjoint set                               |
+| 743    | Network Delay Time                             | Medium     | Dijkstra's                                 |
