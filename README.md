@@ -40,3 +40,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 997    | Find the Town Judge                            | Easy       |
 | 841    | Keys and Rooms                                 | Medium     |                                            |
 | 851    | Loud and Rich                                  | Medium     |                                            |
+| 797    | All Paths From Source to Target                | Medium     |                                            |
