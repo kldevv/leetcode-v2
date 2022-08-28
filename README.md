@@ -44,3 +44,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 785    | Is Graph Bipartite?                            | Medium     |                                            |
 | 787    | Cheapest Flights Within K Stops                | Medium     | Dijkstra's                                 |
 | 834    | Sum of Distances in Tree                       | Hard       |                                            |
+| 1129   | Shortest Path with Alternating Colors          | Medium     |                                            |
