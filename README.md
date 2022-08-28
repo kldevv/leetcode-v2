@@ -42,4 +42,5 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 851    | Loud and Rich                                  | Medium     |                                            |
 | 797    | All Paths From Source to Target                | Medium     |                                            |
 | 785    | Is Graph Bipartite?                            | Medium     |                                            |
-| 787    | Cheapest Flights Within K Stops                | Medium     |                                            |
+| 787    | Cheapest Flights Within K Stops                | Medium     | Dijkstra's                                 |
+| 834    | Sum of Distances in Tree                       | Hard       |                                            |
