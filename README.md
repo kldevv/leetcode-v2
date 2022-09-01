@@ -46,3 +46,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 834    | Sum of Distances in Tree                       | Hard       |                                            |
 | 1129   | Shortest Path with Alternating Colors          | Medium     |                                            |
 | 1042   | Flower Planting With No Adjacent               | Medium     |                                            |
+| 802    | Find Eventual Safe States                      | Medium     |                                            |
