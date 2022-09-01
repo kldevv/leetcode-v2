@@ -50,3 +50,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2192   | All Ancestors of a Node in a Directed Acyclic Graph | Medium     |                                            |
 | 1514   | Path with Maximum Probability                       | Medium     |                                            |
 | 2368   | Reachable Nodes With Restrictions                   | Medium     |                                            |
+| 2115   | Find All Possible Recipes from Given Supplies       | Medium     |                                            |
