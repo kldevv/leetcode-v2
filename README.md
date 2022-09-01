@@ -48,3 +48,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1042   | Flower Planting With No Adjacent                    | Medium     |                                            |
 | 802    | Find Eventual Safe States                           | Medium     |                                            |
 | 2192   | All Ancestors of a Node in a Directed Acyclic Graph | Medium     |                                            |
+| 1514   | Path with Maximum Probability                       | Medium     |                                            |
