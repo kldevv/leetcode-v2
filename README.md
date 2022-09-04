@@ -55,3 +55,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2316   | Count Unreachable Pairs of Nodes in an Undirected Graph | Medium     |                                            |
 | 1971   | Find if Path Exists in Graph                            | Easy       |                                            |
 | 1976   | Number of Ways to Arrive at Destination                 | Medium     |                                            |
+| 2399   | Check Distances Between Same Letters                    | Easy       |                                            |
