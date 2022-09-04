@@ -56,4 +56,5 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1971   | Find if Path Exists in Graph                             | Easy       |                                            |
 | 1976   | Number of Ways to Arrive at Destination                  | Medium     |                                            |
 | 2399   | Check Distances Between Same Letters                     | Easy       |                                            |
-| 2400   | Number of Ways to Reach a Position After Exactly k Steps | Medium     |
+| 2400   | Number of Ways to Reach a Position After Exactly k Steps | Medium     | Math                                       |
+| 2401   | Longest Nice Subarray                                    | Medium     | Sliding Window                             |
