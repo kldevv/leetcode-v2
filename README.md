@@ -59,3 +59,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2400   | Number of Ways to Reach a Position After Exactly k Steps | Medium     | Math                                       |
 | 2401   | Longest Nice Subarray                                    | Medium     | Sliding Window                             |
 | 2402   | Meeting Rooms III                                        | Hard       |                                            |
+| 1203   | Sort Items by Groups Respecting Dependencies             | Hard       | Topological Sort                           |
