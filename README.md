@@ -62,3 +62,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1203   | Sort Items by Groups Respecting Dependencies             | Hard       | Topological Sort                           |
 | 1361   | Validate Binary Tree Nodes                               | Medium     |                                            |
 | 2379   | Minimum Recolors to Get K Consecutive Black Blocks       | Easy       |                                            |
+| 2380   | Time Needed to Rearrange a Binary String                 | Medium     |                                            |
