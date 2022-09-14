@@ -65,3 +65,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2380   | Time Needed to Rearrange a Binary String                 | Medium     |                                            |
 | 2395   | Find Subarrays With Equal Sum                            | Easy       |                                            |
 | 2359   | Find Closest Node to Given Two Nodes                     | Medium     |                                            |
+| 2404   | Most Frequent Even Element                               | Easy       |                                            |
