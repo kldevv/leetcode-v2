@@ -71,3 +71,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2406   | Divide Intervals Into Minimum Number of Groups           | Medium     |                                            |
 | 2407   | Longest Increasing Subsequence II                        | Hard       |                                            |
 | 1791   | Find Center of Star Graph                                | Easy       |                                            |
+| 1786   | Number of Restricted Paths From First to Last Node       | Medium     |                                            |
