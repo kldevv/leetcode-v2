@@ -75,3 +75,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1209   | Remove All Adjacent Duplicates in String II              | Medium     |                                            |
 | 461    | Hamming Distance                                         | Easy       |                                            |
 | 477    | Total Hamming Distance                                   | Medium     |
+| 652    | Find Duplicate Subtrees                                  | Medium     |                                            |
