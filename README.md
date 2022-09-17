@@ -73,3 +73,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1791   | Find Center of Star Graph                                | Easy       |                                            |
 | 1786   | Number of Restricted Paths From First to Last Node       | Medium     |                                            |
 | 1209   | Remove All Adjacent Duplicates in String II              | Medium     |                                            |
+| 461    | Hamming Distance                                         | Easy       |                                            |
