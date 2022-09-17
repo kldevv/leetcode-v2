@@ -77,3 +77,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 477    | Total Hamming Distance                                   | Medium     |
 | 652    | Find Duplicate Subtrees                                  | Medium     |                                            |
 | 1614   | Maximum Nesting Depth of the Parentheses                 | Easy       |                                            |
+| 380    | Insert Delete GetRandom O(1)                             | Medium     |                                            |
