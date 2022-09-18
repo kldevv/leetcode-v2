@@ -81,3 +81,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 381    | Insert Delete GetRandom O(1) - Duplicates allowed        | Hard       |
 | 2413   | Smallest Even Multiple                                   | Easy       |                                            |
 | 2414   | Length of the Longest Alphabetical Continuous Substring  | Medium     |                                            |
+| 2415   | Reverse Odd Levels of Binary Tree                        | Medium     |                                            |
