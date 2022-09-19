@@ -85,3 +85,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2416   | Sum of Prefix Scores of Strings                          | Hard       |                                            |
 | 430    | Flatten a Multilevel Doubly Linked List                  | Medium     |                                            |
 | 1029   | Two City Scheduling                                      | Medium     |                                            |
+| 723    | Candy Crush                                              | Medium     |                                            |
