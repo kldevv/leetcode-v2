@@ -83,3 +83,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2414   | Length of the Longest Alphabetical Continuous Substring  | Medium     |                                            |
 | 2415   | Reverse Odd Levels of Binary Tree                        | Medium     |                                            |
 | 2416   | Sum of Prefix Scores of Strings                          | Hard       |                                            |
+| 430    | Flatten a Multilevel Doubly Linked List                  | Medium     |                                            |
