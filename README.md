@@ -87,3 +87,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1029   | Two City Scheduling                                      | Medium     |                                            |
 | 723    | Candy Crush                                              | Medium     |                                            |
 | 1244   | Design A Leaderboard                                     | Medium     |                                            |
+| 1656   | Design an Ordered Stream                                 | Medium     |                                            |
