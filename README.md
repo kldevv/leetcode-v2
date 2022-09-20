@@ -91,3 +91,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1583   | Count Unhappy Friends                                    | Medium     |                                            |
 | 582    | Kill Process                                             | Medium     |                                            |
 | 694    | Number of Distinct Islands                               | Medium     |                                            |
+| 611    | Valid Triangle Number                                    | Medium     |                                            |
