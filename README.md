@@ -93,3 +93,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 694    | Number of Distinct Islands                               | Medium     |                                            |
 | 611    | Valid Triangle Number                                    | Medium     |                                            |
 | 726    | Number of Atoms                                          | Hard       | Parse                                      |
+| 1347   | Minimum Number of Steps to Make Two Strings Anagram      | Medium     |                                            |
