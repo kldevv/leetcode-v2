@@ -100,3 +100,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 731    | My Calendar II                                           | Medium     |                                            |
 | 729    | My Calendar I                                            | Medium     |                                            |
 | 2166   | Design Bitset                                            | Medium     |                                            |
+| 554    | Brick Wall                                               | Medium     |                                            |
