@@ -97,3 +97,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1060   | Missing Element in Sorted Array                          | Medium     |                                            |
 | 451    | Sort Characters By Frequency                             | Medium     |                                            |
 | 838    | Push Dominoes                                            | Medium     |                                            |
+| 731    | My Calendar II                                           | Medium     |                                            |
