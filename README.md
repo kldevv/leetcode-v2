@@ -105,3 +105,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 273    | Integer to English Words                                 | Hard       |                                            |
 | 387    | First Unique Character in a String                       | Easy       |                                            |
 | 253    | Meeting Rooms II                                         | Medium     |                                            |
+| 78     | Subsets                                                  | Medium     |                                            |
