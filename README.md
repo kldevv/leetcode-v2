@@ -110,3 +110,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 238    | Product of Array Except Self                             | Medium     |                                            |
 | 300    | Longest Increasing Subsequence                           | Medium     |                                            |
 | 300    | Longest Increasing Subsequence                           | Medium     |                                            |
+| 46     | Permutations                                             | Medium     |                                            |
