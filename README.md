@@ -111,3 +111,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 300    | Longest Increasing Subsequence                           | Medium     |                                            |
 | 300    | Longest Increasing Subsequence                           | Medium     |                                            |
 | 46     | Permutations                                             | Medium     |                                            |
+| 2418   | Sort the People                                          | Easy       |                                            |
