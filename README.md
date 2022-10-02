@@ -117,3 +117,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2421   | Number of Good Paths                                     | Hard       |                                            |
 | 1615   | Maximal Network Rank                                     | Medium     |                                            |
 | 2101   | Detonate the Maximum Bombs                               | Medium     |                                            |
+| 947    | Most Stones Removed with Same Row or Column              | Medium     |                                            |
