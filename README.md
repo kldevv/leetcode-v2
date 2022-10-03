@@ -121,3 +121,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 886    | Possible Bipartition                                     | Medium     |                                            |
 | 871    | Minimum Number of Refueling Stops                        | Hard       |                                            |
 | 2429   | Minimize XOR                                             | Medium     |                                            |
+| 2428   | Maximum Sum of an Hourglass                              | Medium     |                                            |
