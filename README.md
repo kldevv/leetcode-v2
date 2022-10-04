@@ -125,3 +125,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2427   | Number of Common Factors                                 | Easy       |                                            |
 | 1143   | Longest Common Subsequence                               | Medium     |                                            |
 | 916    | Word Subsets                                             | Medium     |                                            |
+| 890    | Find and Replace Pattern                                 | Medium     |                                            |
