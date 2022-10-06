@@ -128,3 +128,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 890    | Find and Replace Pattern                                 | Medium     |                                            |
 | 557    | Reverse Words in a String III                            | Easy       |                                            |
 | 1444   | Number of Ways of Cutting a Pizza                        | Hard       |                                            |
+| 2430   | Maximum Deletions on a String                            | Hard       |                                            |
