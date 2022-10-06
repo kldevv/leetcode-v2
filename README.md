@@ -131,3 +131,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2430   | Maximum Deletions on a String                              | Hard       |                                            |
 | 1461   | Check If a String Contains All Binary Codes of Size K      | Medium     |                                            |
 | 2096   | Step-By-Step Directions From a Binary Tree Node to Another | Medium     |                                            |
+| 1740   | Find Distance in a Binary Tree                             | Medium     |                                            |
