@@ -136,3 +136,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1647   | Minimum Deletions to Make Character Frequencies Unique     | Medium     |                                            |
 | 583    | Delete Operation for Two Strings                           | Medium     |                                            |
 | 539    | Minimum Time Difference                                    | Medium     |                                            |
+| 2038   | Remove Colored Pieces if Both Neighbors are the Same Color | Medium     |                                            |
