@@ -134,3 +134,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1740   | Find Distance in a Binary Tree                             | Medium     |                                            |
 | 1166   | Design File System                                         | Medium     |                                            |
 | 1647   | Minimum Deletions to Make Character Frequencies Unique     | Medium     |                                            |
+| 583    | Delete Operation for Two Strings                           | Medium     |                                            |
