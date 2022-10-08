@@ -139,3 +139,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2038   | Remove Colored Pieces if Both Neighbors are the Same Color | Medium     |                                            |
 | 678    | Valid Parenthesis String                                   | Medium     |                                            |
 | 1207   | Unique Number of Occurrences                               | Easy       |                                            |
+| 2235   | Add Two Integers                                           | Easy       |                                            |
