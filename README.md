@@ -140,3 +140,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 678    | Valid Parenthesis String                                   | Medium     |                                            |
 | 1207   | Unique Number of Occurrences                               | Easy       |                                            |
 | 2235   | Add Two Integers                                           | Easy       |                                            |
+| 456    | 132 Pattern                                                | Medium     |                                            |
