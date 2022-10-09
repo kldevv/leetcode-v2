@@ -144,3 +144,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 473    | Matchsticks to Square                                      | Medium     |                                            |
 | 509    | Fibonacci Number                                           | Easy       |                                            |
 | 746    | Min Cost Climbing Stairs                                   | Easy       |                                            |
+| 2432   | The Employee That Worked on the Longest Task               | Easy       |                                            |
