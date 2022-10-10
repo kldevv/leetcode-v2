@@ -147,3 +147,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2432   | The Employee That Worked on the Longest Task                 | Easy       |                                            |
 | 2433   | Find The Original Array of Prefix Xor                        | Medium     |                                            |
 | 2434   | Using a Robot to Print the Lexicographically Smallest String | Medium     |                                            |
+| 1061   | Lexicographically Smallest Equivalent String                 | Medium     |                                            |
