@@ -150,3 +150,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1061   | Lexicographically Smallest Equivalent String                 | Medium     |                                            |
 | 2435   | Paths in Matrix Whose Sum Is Divisible by K                  | Hard       |                                            |
 | 166    | Fraction to Recurring Decimal                                | Medium     |                                            |
+| 402    | Remove K Digits                                              | Medium     |                                            |
