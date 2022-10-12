@@ -157,3 +157,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 820    | Short Encoding of Words                                      | Medium     |                                            |
 | 1844   | Replace All Digits with Characters                           | Easy       |                                            |
 | 981    | Time Based Key-Value Store                                   | Medium     |                                            |
+| 1366   | Rank Teams by Votes                                          | Medium     |                                            |
