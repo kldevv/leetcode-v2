@@ -160,3 +160,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1366   | Rank Teams by Votes                                          | Medium     |                                            |
 | 1188   | Design Bounded Blocking Queue                                | Medium     |                                            |
 | 1773   | Count Items Matching a Rule                                  | Easy       |                                            |
+| 784    | Letter Case Permutation                                      | Medium     |                                            |
