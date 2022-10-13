@@ -163,3 +163,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 784    | Letter Case Permutation                                            | Medium     |                                            |
 | 1160   | Find Words That Can Be Formed by Characters                        | Easy       |                                            |
 | 1404   | Number of Steps to Reduce a Number in Binary Representation to One | Medium     |                                            |
+| 1239   | Maximum Length of a Concatenated String with Unique Characters     | Medium     |                                            |
