@@ -167,3 +167,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1257   | Smallest Common Region                                             | Medium     |                                            |
 | 424    | Longest Repeating Character Replacement                            | Medium     |                                            |
 | 2437   | Number of Valid Clock Times                                        | Easy       |                                            |
+| 2438   | Range Product Queries of Powers                                    | Medium     |                                            |
