@@ -168,3 +168,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 424    | Longest Repeating Character Replacement                            | Medium     |                                            |
 | 2437   | Number of Valid Clock Times                                        | Easy       |                                            |
 | 2438   | Range Product Queries of Powers                                    | Medium     |                                            |
+| 2439   | Minimize Maximum of Array                                          | Medium     |                                            |
