@@ -169,3 +169,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2437   | Number of Valid Clock Times                                        | Easy       |                                            |
 | 2438   | Range Product Queries of Powers                                    | Medium     |                                            |
 | 2439   | Minimize Maximum of Array                                          | Medium     |                                            |
+| 2440   | Create Components With Same Value                                  | Hard       |                                            |
