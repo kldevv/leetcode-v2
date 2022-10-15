@@ -165,3 +165,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 1404   | Number of Steps to Reduce a Number in Binary Representation to One | Medium     |                                            |
 | 1239   | Maximum Length of a Concatenated String with Unique Characters     | Medium     |                                            |
 | 1257   | Smallest Common Region                                             | Medium     |                                            |
+| 424    | Longest Repeating Character Replacement                            | Medium     |                                            |
