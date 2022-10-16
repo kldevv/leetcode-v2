@@ -1,11 +1,5 @@
 # leetcode-v2
 
-It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
-
--   :telescope:: Math problem
--   :eye_speech_bubble:: Fundamental problem
--   :sparkles:: Brain teaser
-
 | Number | Name                                                               | Difficulty | Note                                       |
 | ------ | ------------------------------------------------------------------ | ---------- | ------------------------------------------ |
 | 463    | Island Perimeter                                                   | Easy       |                                            |
@@ -26,12 +20,12 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 815    | Bus Routes                                                         | Hard       |                                            |
 | 716    | Max Stack                                                          | Hard       | 1. Double Linked List <br /> 2. Two Stacks |
 | 881    | Boats to Save People                                               | Medium     |                                            |
-| 991    | Broken Calculator                                                  | Medium     | :telescope:                                |
-| 1405   | Longest Happy String                                               | Medium     | :sparkles:                                 |
-| 1523   | Count Odd Numbers in an Interval Range                             | Easy       | :telescope:                                |
-| 13     | Roman to Integer                                                   | Easy       | :eye_speech_bubble:                        |
-| 12     | Integer to Roman                                                   | Medium     | :eye_speech_bubble:                        |
-| 423    | Reconstruct Original Digits from English                           | Medium     | :sparkles:                                 |
+| 991    | Broken Calculator                                                  | Medium     | Math                                       |
+| 1405   | Longest Happy String                                               | Medium     |                                            |
+| 1523   | Count Odd Numbers in an Interval Range                             | Easy       | Math                                       |
+| 13     | Roman to Integer                                                   | Easy       | Utils problem                              |
+| 12     | Integer to Roman                                                   | Medium     | Utils problem                              |
+| 423    | Reconstruct Original Digits from English                           | Medium     |                                            |
 | 235    | Lowest Common Ancestor of a Binary Search Tree                     | Easy       |                                            |
 | 236    | Lowest Common Ancestor of a Binary Tree                            | Medium     |                                            |
 | 684    | Redundant Connection                                               | Medium     | Disjoint set                               |
@@ -174,4 +168,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2442   | Count Number of Distinct Integers After Reverse Operations         | Medium     |                                            |
 | 2443   | Sum of Number and Its Reverse                                      | Medium     |                                            |
 | 2444   | Count Subarrays With Fixed Bounds                                  | Hard       |                                            |
-| 2172   | Maximum AND Sum of Array                                           | Hard       |                                            |
+| 2172   | Maximum AND Sum of Array                                           | Hard       | Bitmask with 2+ possible states            |
