@@ -170,3 +170,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2438   | Range Product Queries of Powers                                    | Medium     |                                            |
 | 2439   | Minimize Maximum of Array                                          | Medium     |                                            |
 | 2440   | Create Components With Same Value                                  | Hard       |                                            |
+| 2441   | Largest Positive Integer That Exists With Its Negative             | Easy       |                                            |
