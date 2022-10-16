@@ -174,3 +174,4 @@ It's 2022-23 hiring season. Let the grind begin. :heart_on_fire: :sweat_drops:
 | 2442   | Count Number of Distinct Integers After Reverse Operations         | Medium     |                                            |
 | 2443   | Sum of Number and Its Reverse                                      | Medium     |                                            |
 | 2444   | Count Subarrays With Fixed Bounds                                  | Hard       |                                            |
+| 2172   | Maximum AND Sum of Array                                           | Hard       |                                            |
