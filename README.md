@@ -171,3 +171,4 @@
 | 2172   | Maximum AND Sum of Array                                           | Hard       | Bitmask with 2+ possible states            |
 | 2055   | Plates Between Candles                                             | Medium     |                                            |
 | 925    | Long Pressed Name                                                  | Easy       |                                            |
+| 839    | Similar String Groups                                              | Hard       |                                            |
