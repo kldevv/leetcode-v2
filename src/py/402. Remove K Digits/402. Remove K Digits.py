@@ -1,6 +1,5 @@
 class Solution:
     def removeKdigits(self, num: str, k: int) -> str:
-        n = len(num)
         out = []
         for digit in num:
             while k and out and out[-1] > digit:
@@ -9,7 +8,6 @@ class Solution:
             out.append(digit)
         
         if k:
-            out[:-k]
-            
+            out = out[:-k]
         return "".join(out).lstrip("0") or "0"
             
