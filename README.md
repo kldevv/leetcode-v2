@@ -173,3 +173,4 @@
 | 925    | Long Pressed Name                                                  | Easy       |                                            |
 | 839    | Similar String Groups                                              | Hard       |                                            |
 | 990    | Satisfiability of Equality Equations                               | Medium     |                                            |
+| 474    | Ones and Zeroes                                                    | Medium     | Knapsack                                   |
