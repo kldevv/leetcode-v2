@@ -172,3 +172,4 @@
 | 2055   | Plates Between Candles                                             | Medium     |                                            |
 | 925    | Long Pressed Name                                                  | Easy       |                                            |
 | 839    | Similar String Groups                                              | Hard       |                                            |
+| 990    | Satisfiability of Equality Equations                               | Medium     |                                            |
