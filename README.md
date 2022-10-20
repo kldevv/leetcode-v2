@@ -176,3 +176,4 @@
 | 474    | Ones and Zeroes                                                    | Medium     | Knapsack                                   |
 | 2222   | Number of Ways to Select Buildings                                 | Medium     | DP                                         |
 | 1202   | Smallest String With Swaps                                         | Medium     | DSU                                        |
+| 606    | Construct String from Binary Tree                                  | Easy       |                                            |
