@@ -180,3 +180,4 @@
 | 1297   | Maximum Number of Occurrences of a Substring                       | Medium     | Any substring of S have at least the same occurence count of S |
 | 635    | Design Log Storage System                                          | Medium     |                                                                |
 | 1642   | Furthest Building You Can Reach                                    | Medium     |                                                                |
+| 974    | Subarray Sums Divisible by K                                       | Medium     |                                                                |
