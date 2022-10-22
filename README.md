@@ -178,3 +178,4 @@
 | 1202   | Smallest String With Swaps                                         | Medium     | DSU                                                            |
 | 606    | Construct String from Binary Tree                                  | Easy       |                                                                |
 | 1297   | Maximum Number of Occurrences of a Substring                       | Medium     | Any substring of S have at least the same occurence count of S |
+| 635    | Design Log Storage System                                          | Medium     |                                                                |
