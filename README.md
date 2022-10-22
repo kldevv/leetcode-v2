@@ -181,3 +181,4 @@
 | 635    | Design Log Storage System                                          | Medium     |                                                                |
 | 1642   | Furthest Building You Can Reach                                    | Medium     |                                                                |
 | 974    | Subarray Sums Divisible by K                                       | Medium     |                                                                |
+| 823    | Binary Trees With Factors                                          | Medium     |                                                                |
