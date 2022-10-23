@@ -183,3 +183,4 @@
 | 974    | Subarray Sums Divisible by K                                       | Medium     |                                                                |
 | 823    | Binary Trees With Factors                                          | Medium     |                                                                |
 | 2446   | Determine if Two Events Have Conflict                              | Easy       |                                                                |
+| 2447   | Number of Subarrays With GCD Equal to K                            | Medium     |                                                                |
