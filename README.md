@@ -182,3 +182,4 @@
 | 1642   | Furthest Building You Can Reach                                    | Medium     |                                                                |
 | 974    | Subarray Sums Divisible by K                                       | Medium     |                                                                |
 | 823    | Binary Trees With Factors                                          | Medium     |                                                                |
+| 2446   | Determine if Two Events Have Conflict                              | Easy       |                                                                |
