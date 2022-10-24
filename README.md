@@ -186,3 +186,4 @@
 | 2447   | Number of Subarrays With GCD Equal to K                            | Medium     |                                                                |
 | 2448   | Minimum Cost to Make Array Equal                                   | Hard       |                                                                |
 | 2449   | Minimum Number of Operations to Make Arrays Similar                | Hard       |                                                                |
+| 1551   | Minimum Operations to Make Array Equal                             | Medium     |                                                                |
