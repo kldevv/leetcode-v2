@@ -190,3 +190,4 @@
 | 616    | Add Bold Tag in String                                             | Medium     |                                                                |
 | 942    | DI String Match                                                    | Easy       |                                                                |
 | 1832   | Check if the Sentence Is Pangram                                   | Easy       |                                                                |
+| 796    | Rotate String                                                      | Easy       |                                                                |
