@@ -192,3 +192,4 @@
 | 1832   | Check if the Sentence Is Pangram                                   | Easy       |                                                                |
 | 796    | Rotate String                                                      | Easy       |                                                                |
 | 1864   | Minimum Number of Swaps to Make the Binary String Alternating      | Medium     |                                                                |
+| 2306   | Naming a Company                                                   | Hard       |                                                                |
