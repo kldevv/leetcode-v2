@@ -194,3 +194,4 @@
 | 1864   | Minimum Number of Swaps to Make the Binary String Alternating      | Medium     |                                                                |
 | 2306   | Naming a Company                                                   | Hard       |                                                                |
 | 1419   | Minimum Number of Frogs Croaking                                   | Medium     |                                                                |
+| 2023   | Number of Pairs of Strings With Concatenation Equal to Target      | Medium     |                                                                |
