@@ -193,3 +193,4 @@
 | 796    | Rotate String                                                      | Easy       |                                                                |
 | 1864   | Minimum Number of Swaps to Make the Binary String Alternating      | Medium     |                                                                |
 | 2306   | Naming a Company                                                   | Hard       |                                                                |
+| 1419   | Minimum Number of Frogs Croaking                                   | Medium     |                                                                |
