@@ -195,3 +195,4 @@
 | 2306   | Naming a Company                                                   | Hard       |                                                                |
 | 1419   | Minimum Number of Frogs Croaking                                   | Medium     |                                                                |
 | 2023   | Number of Pairs of Strings With Concatenation Equal to Target      | Medium     |                                                                |
+| 1910   | Remove All Occurrences of a Substring                              | Medium     |                                                                |
