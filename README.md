@@ -198,3 +198,4 @@
 | 1910   | Remove All Occurrences of a Substring                              | Medium     |                                                                |
 | 686    | Repeated String Match                                              | Medium     |                                                                |
 | 1578   | Minimum Time to Make Rope Colorful                                 | Medium     |                                                                |
+| 1653   | Minimum Deletions to Make String Balanced                          | Medium     |                                                                |
