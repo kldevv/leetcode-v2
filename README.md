@@ -197,3 +197,4 @@
 | 2023   | Number of Pairs of Strings With Concatenation Equal to Target      | Medium     |                                                                |
 | 1910   | Remove All Occurrences of a Substring                              | Medium     |                                                                |
 | 686    | Repeated String Match                                              | Medium     |                                                                |
+| 1578   | Minimum Time to Make Rope Colorful                                 | Medium     |                                                                |
