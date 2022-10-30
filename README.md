@@ -200,4 +200,5 @@
 | 1578   | Minimum Time to Make Rope Colorful                                 | Medium     |                                                                |
 | 1653   | Minimum Deletions to Make String Balanced                          | Medium     | Optimized DP                                                   |
 | 926    | Flip String to Monotone Increasing                                 | Medium     | Optimized DP                                                   |
-| 2007   | Find Original Array From Doubled Array                             | Medium     |                                                                |
+| 2007   | Find Original Array From Doubled Array                             | Medium     | Counting sort                                                  |
+| 954    | Array of Doubled Pairs                                             | Medium     | Counting sort                                                  |
