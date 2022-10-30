@@ -202,3 +202,4 @@
 | 926    | Flip String to Monotone Increasing                                 | Medium     | Optimized DP                                                   |
 | 2007   | Find Original Array From Doubled Array                             | Medium     | Counting sort                                                  |
 | 954    | Array of Doubled Pairs                                             | Medium     | Counting sort                                                  |
+| 2455   | Average Value of Even Numbers That Are Divisible by Three          | Easy       |                                                                |
