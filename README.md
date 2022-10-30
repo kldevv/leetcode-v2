@@ -204,3 +204,4 @@
 | 954    | Array of Doubled Pairs                                             | Medium     | Counting sort                                                  |
 | 2455   | Average Value of Even Numbers That Are Divisible by Three          | Easy       |                                                                |
 | 2456   | Most Popular Video Creator                                         | Medium     |                                                                |
+| 2457   | Minimum Addition to Make Integer Beautiful                         | Medium     |                                                                |
