@@ -206,3 +206,4 @@
 | 2456   | Most Popular Video Creator                                         | Medium     |                                                                |
 | 2457   | Minimum Addition to Make Integer Beautiful                         | Medium     |                                                                |
 | 2458   | Height of Binary Tree After Subtree Removal Queries                | Hard       | Preorder                                                       |
+| 2451   | Odd String Difference                                              | Easy       |                                                                |
