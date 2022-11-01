@@ -211,3 +211,4 @@
 | 2453   | Destroy Sequential Targets                                         | Medium     |                                                                |
 | 2454   | Next Greater Element IV                                            | Hard       |                                                                |
 | 848    | Shifting Letters                                                   | Medium     |                                                                |
+| 2381   | Shifting Letters II                                                | Medium     |                                                                |
