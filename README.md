@@ -210,3 +210,4 @@
 | 2452   | Words Within Two Edits of Dictionary                               | Medium     |                                                                |
 | 2453   | Destroy Sequential Targets                                         | Medium     |                                                                |
 | 2454   | Next Greater Element IV                                            | Hard       |                                                                |
+| 848    | Shifting Letters                                                   | Medium     |                                                                |
