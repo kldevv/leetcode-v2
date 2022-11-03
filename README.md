@@ -217,3 +217,4 @@
 | 405    | Convert a Number to Hexadecimal                                    | Easy       |                                                                |
 | 414    | Third Maximum Number                                               | Easy       |                                                                |
 | 422    | Valid Word Square                                                  | Easy       |                                                                |
+| 434    | Number of Segments in a String                                     | Easy       |                                                                |
