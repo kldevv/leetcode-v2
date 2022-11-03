@@ -216,3 +216,4 @@
 | 401    | Binary Watch                                                       | Easy       |                                                                |
 | 405    | Convert a Number to Hexadecimal                                    | Easy       |                                                                |
 | 414    | Third Maximum Number                                               | Easy       |                                                                |
+| 422    | Valid Word Square                                                  | Easy       |                                                                |
