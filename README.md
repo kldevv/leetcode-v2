@@ -213,3 +213,4 @@
 | 848    | Shifting Letters                                                   | Medium     |                                                                |
 | 2381   | Shifting Letters II                                                | Medium     |                                                                |
 | 258    | Add Digits                                                         | Easy       |                                                                |
+| 401    | Binary Watch                                                       | Easy       |                                                                |
