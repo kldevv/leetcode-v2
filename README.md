@@ -215,3 +215,4 @@
 | 258    | Add Digits                                                         | Easy       |                                                                |
 | 401    | Binary Watch                                                       | Easy       |                                                                |
 | 405    | Convert a Number to Hexadecimal                                    | Easy       |                                                                |
+| 414    | Third Maximum Number                                               | Easy       |                                                                |
