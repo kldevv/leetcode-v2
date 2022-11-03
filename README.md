@@ -214,3 +214,4 @@
 | 2381   | Shifting Letters II                                                | Medium     |                                                                |
 | 258    | Add Digits                                                         | Easy       |                                                                |
 | 401    | Binary Watch                                                       | Easy       |                                                                |
+| 405    | Convert a Number to Hexadecimal                                    | Easy       |                                                                |
