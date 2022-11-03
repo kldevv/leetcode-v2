@@ -218,3 +218,4 @@
 | 414    | Third Maximum Number                                               | Easy       |                                                                |
 | 422    | Valid Word Square                                                  | Easy       |                                                                |
 | 434    | Number of Segments in a String                                     | Easy       |                                                                |
+| 441    | Arranging Coins                                                    | Easy       |                                                                |
