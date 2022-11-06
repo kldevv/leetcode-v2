@@ -223,3 +223,4 @@
 | 476    | Number Complement                                                  | Easy       |                                                                |
 | 495    | Teemo Attacking                                                    | Easy       |                                                                |
 | 501    | Find Mode in Binary Search Tree                                    | Easy       |                                                                |
+| 2460   | Apply Operations to an Array                                       | Easy       |                                                                |
