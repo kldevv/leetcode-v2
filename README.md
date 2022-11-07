@@ -226,3 +226,4 @@
 | 2460   | Apply Operations to an Array                                       | Easy       |                                                                |
 | 2461.  | Maximum Sum of Distinct Subarrays With Length K                    | Medium     |                                                                |
 | 2462   | Total Cost to Hire K Workers                                       | Medium     |                                                                |
+| 1588   | Sum of All Odd Length Subarrays                                    | Easy       |                                                                |
