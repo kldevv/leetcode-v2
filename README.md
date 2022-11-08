@@ -230,3 +230,4 @@
 | 2463   | Minimum Total Distance Traveled                                    | Hard       |                                                                |
 | 1544   | Make The String Great                                              | Easy       |                                                                |
 | 645    | Set Mismatch                                                       | Easy       |                                                                |
+| 605    | Can Place Flowers                                                  | Easy       |                                                                |
