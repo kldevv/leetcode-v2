@@ -227,3 +227,4 @@
 | 2461.  | Maximum Sum of Distinct Subarrays With Length K                    | Medium     |                                                                |
 | 2462   | Total Cost to Hire K Workers                                       | Medium     |                                                                |
 | 1588   | Sum of All Odd Length Subarrays                                    | Easy       |                                                                |
+| 2463   | Minimum Total Distance Traveled                                    | Hard       |                                                                |
