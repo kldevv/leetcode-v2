@@ -229,3 +229,4 @@
 | 1588   | Sum of All Odd Length Subarrays                                    | Easy       |                                                                |
 | 2463   | Minimum Total Distance Traveled                                    | Hard       |                                                                |
 | 1544   | Make The String Great                                              | Easy       |                                                                |
+| 645    | Set Mismatch                                                       | Easy       |                                                                |
