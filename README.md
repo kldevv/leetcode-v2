@@ -234,3 +234,4 @@
 | 541    | Reverse String II                                                  | Easy       |                                                                |
 | 876    | Middle of the Linked List                                          | Easy       |                                                                |
 | 888    | Fair Candy Swap                                                    | Easy       |                                                                |
+| 832    | Flipping an Image                                                  | Easy       |                                                                |
