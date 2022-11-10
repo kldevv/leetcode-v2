@@ -239,3 +239,4 @@
 | 929    | Unique Email Addresses                                             | Easy       |                                                                |
 | 1009   | Complement of Base 10 Integer                                      | Easy       |                                                                |
 | 941    | Valid Mountain Array                                               | Easy       |                                                                |
+| 1086   | High Five                                                          | Easy       |                                                                |
