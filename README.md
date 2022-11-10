@@ -238,3 +238,4 @@
 | 821    | Shortest Distance to a Character                                   | Easy       |                                                                |
 | 929    | Unique Email Addresses                                             | Easy       |                                                                |
 | 1009   | Complement of Base 10 Integer                                      | Easy       |                                                                |
+| 941    | Valid Mountain Array                                               | Easy       |                                                                |
