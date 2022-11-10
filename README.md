@@ -236,3 +236,4 @@
 | 888    | Fair Candy Swap                                                    | Easy       |                                                                |
 | 832    | Flipping an Image                                                  | Easy       |                                                                |
 | 821    | Shortest Distance to a Character                                   | Easy       |                                                                |
+| 929    | Unique Email Addresses                                             | Easy       |                                                                |
