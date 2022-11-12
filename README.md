@@ -241,3 +241,4 @@
 | 941    | Valid Mountain Array                                               | Easy       |                                                                |
 | 1086   | High Five                                                          | Easy       |                                                                |
 | 869    | Reordered Power of 2                                               | Medium     |                                                                |
+| 1155   | Number of Dice Rolls With Target Sum                               | Medium     |                                                                |
