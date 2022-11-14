@@ -244,3 +244,4 @@
 | 1155   | Number of Dice Rolls With Target Sum                               | Medium     |                                                                |
 | 1197   | Minimum Knight Moves                                               | Medium     | Chess board                                                    |
 | 2469   | Convert the Temperature                                            | Easy       |                                                                |
+| 2470   | Number of Subarrays With LCM Equal to K                            | Medium     |                                                                |
