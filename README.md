@@ -245,3 +245,4 @@
 | 1197   | Minimum Knight Moves                                               | Medium     | Chess board                                                    |
 | 2469   | Convert the Temperature                                            | Easy       |                                                                |
 | 2470   | Number of Subarrays With LCM Equal to K                            | Medium     |                                                                |
+| 659    | Split Array into Consecutive Subsequences                          | Medium     |                                                                |
