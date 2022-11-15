@@ -246,3 +246,4 @@
 | 2469   | Convert the Temperature                                            | Easy       |                                                                |
 | 2470   | Number of Subarrays With LCM Equal to K                            | Medium     |                                                                |
 | 659    | Split Array into Consecutive Subsequences                          | Medium     |                                                                |
+| 1672   | Richest Customer Wealth                                            | Easy       |                                                                |
