@@ -249,3 +249,4 @@
 | 1672   | Richest Customer Wealth                                            | Easy       |                                                                |
 | 2471   | Minimum Number of Operations to Sort a Binary Tree by Level        | Medium     |                                                                |
 | 2472   | Maximum Number of Non-overlapping Palindrome Substrings            | Hard       |                                                                |
+| 2475   | Number of Unequal Triplets in Array                                | Easy       |                                                                |
