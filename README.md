@@ -251,3 +251,4 @@
 | 2472   | Maximum Number of Non-overlapping Palindrome Substrings            | Hard       |                                                                |
 | 2475   | Number of Unequal Triplets in Array                                | Easy       |                                                                |
 | 2476   | Closest Nodes Queries in a Binary Search Tree                      | Medium     |                                                                |
+| 2485   | Find the Pivot Integer                                             | Easy       |                                                                |
