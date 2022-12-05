@@ -254,3 +254,4 @@
 | 2485   | Find the Pivot Integer                                             | Easy       |                                                                |
 | 2486   | Append Characters to String to Make Subsequence                    | Medium     |                                                                |
 | 2487   | Remove Nodes From Linked List                                      | Medium     |                                                                |
+| 2481   | Minimum Cuts to Divide a Circle                                    | Easy       |                                                                |
