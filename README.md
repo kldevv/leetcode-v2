@@ -252,3 +252,4 @@
 | 2475   | Number of Unequal Triplets in Array                                | Easy       |                                                                |
 | 2476   | Closest Nodes Queries in a Binary Search Tree                      | Medium     |                                                                |
 | 2485   | Find the Pivot Integer                                             | Easy       |                                                                |
+| 2486   | Append Characters to String to Make Subsequence                    | Medium     |                                                                |
