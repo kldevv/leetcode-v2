@@ -255,3 +255,4 @@
 | 2486   | Append Characters to String to Make Subsequence                    | Medium     |                                                                |
 | 2487   | Remove Nodes From Linked List                                      | Medium     |                                                                |
 | 2481   | Minimum Cuts to Divide a Circle                                    | Easy       |                                                                |
+| 2482   | Difference Between Ones and Zeros in Row and Colum                 | Medium     |                                                                |
