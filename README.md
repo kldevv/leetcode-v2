@@ -257,3 +257,4 @@
 | 2481   | Minimum Cuts to Divide a Circle                                    | Easy       |                                                                |
 | 2482   | Difference Between Ones and Zeros in Row and Colum                 | Medium     |                                                                |
 | 2483   | Minimum Penalty for a Shop                                         | Medium     |                                                                |
+| 2491   | Divide Players Into Teams of Equal Skill                           | Medium     |                                                                |
